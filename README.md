@@ -22,3 +22,6 @@ cd [directory the scripts are located in]
 lua convert_items.lua
 
 - It should now automatically populate new_file.lua with the correct format. If you had items with ' <--- that fucker in their description, you will need to either remove it or add \ before it.
+
+
+If you need support or encounter issues use githubs issues tab, or if you are better at this than me feel free to make a pull request or fork a better version.
